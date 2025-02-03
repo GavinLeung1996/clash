@@ -1,6 +1,8 @@
 # 代理补充列表
 DOMAIN-KEYWORD,googleapis.com
 DOMAIN-KEYWORD,mmcdn.com
+DOMAIN-KEYWORD,xbox.com
+DOMAIN-KEYWORD,xboxlive.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
