@@ -9,6 +9,9 @@ DOMAIN-KEYWORD,gaijin.net
 DOMAIN-KEYWORD,warthunder.com
 DOMAIN-KEYWORD,mi.com
 DOMAIN-KEYWORD,xiaomi.com
+DOMAIN-KEYWORD,adobe,REJECT
+DOMAIN-SUFFIX,adobe.com,REJECT
+DOMAIN-SUFFIX,adobe.io,REJECT
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
