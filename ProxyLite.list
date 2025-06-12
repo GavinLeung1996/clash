@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,googleapis.com
 DOMAIN-KEYWORD,mmcdn.com
 DOMAIN-KEYWORD,xbox.com
 DOMAIN-KEYWORD,xboxlive.com
-
+DOMAIN-KEYWORD,jellyfin.org
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
