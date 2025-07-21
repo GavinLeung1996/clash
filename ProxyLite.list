@@ -4,6 +4,8 @@ DOMAIN-KEYWORD,mmcdn.com
 DOMAIN-KEYWORD,xbox.com
 DOMAIN-KEYWORD,xboxlive.com
 DOMAIN-KEYWORD,jellyfin.org
+DOMAIN-KEYWORD,x.com
+DOMAIN-KEYWORD,githubassets.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
