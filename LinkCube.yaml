@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Linkcube:
-    url: "https://api.linkcube.dev/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=LinkCube&url=https%3A%2F%2Fapi-linkcube.dev%2Fsubscribe%2Fdnmnm-vqmjpd5r"
+    url: "https://api.linkcube.dev/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=LinkCube&url=https%3A%2F%2Fapi-linkcube.com%2Fsubscribe%2Fwzzxr-uccojtlc"
     type: http
     interval: 86400
     health-check:
